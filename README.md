@@ -4,4 +4,4 @@
 
 https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836
 
-<img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" width="30px">
+<img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px">
