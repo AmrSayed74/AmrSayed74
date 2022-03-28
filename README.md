@@ -1,10 +1,10 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name Is Amr Elsayed
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name Is Amr Elsayed
 
 
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrSaye74)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrSayed74)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋, Amr Elsayed
 #### Front-End Develpoer
@@ -13,10 +13,7 @@
 I'm Amr Elsayed from Egypt. I'm a Front-End Developer.
 I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. 
 
-# Skills:  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-
-
-
+Skills:  HTML / CSS /  JS 
 
 - 🌱 I’m currently learning JavaScript 
 
