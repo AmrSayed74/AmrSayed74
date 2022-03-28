@@ -5,5 +5,4 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-
-<iframe src="https://giphy.com/embed/xT39DoCQMa5mEdQ3w4" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ubykotexbrand-bye-wave-xT39DoCQMa5mEdQ3w4">via GIPHY</a></p>
+## Hi there <img src="https://giphy.com/embed/xT39DoCQMa5mEdQ3w4" width="30px">
