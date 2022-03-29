@@ -26,12 +26,6 @@ I'm Amr Elsayed from Egypt. I'm a Front-End Developer.I really enjoy learning Pr
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amrsayed74)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrsayed74)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 
