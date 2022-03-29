@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm Amr Elsayed from Egypt 🇪🇬. I'm a Front-End Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. 
+I'm Amr Elsayed from Egypt <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fegypt&psig=AOvVaw1S6eNi8wF44g8HO_eYdNuu&ust=1648602789916000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCm4I6S6vYCFQAAAAAdAAAAABAD" title="Egypt" alt="Egypt" width="15" height="15"/>. I'm a Front-End Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. 
 
 ## stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrSayed74)](https://github.com/anuraghazra/github-readme-stats)
