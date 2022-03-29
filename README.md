@@ -5,7 +5,7 @@
 I'm Amr Elsayed from Egypt. I'm a Front-End Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. 
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrSayed74)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrSayed74&show_icons=true&theme=radical)
 
 # Skills: <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
 
