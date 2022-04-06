@@ -22,7 +22,10 @@ I'm Amr Elsayed from Egypt. I'm a Front-End Developer.I really enjoy learning Pr
 <br/>
 ---
 
-- ### I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+- ### I’m currently learning 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ---
 
 <br/>
@@ -43,7 +46,19 @@ I'm Amr Elsayed from Egypt. I'm a Front-End Developer.I really enjoy learning Pr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+<br/>
+
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript  :"D
+
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 
 
 
