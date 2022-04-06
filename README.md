@@ -42,14 +42,14 @@ I'm Amr Elsayed from Egypt. I'm a Front-End Developer.I really enjoy learning Pr
 
 <br/>
 
-### Stats
+<!-- ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 <br/>
-
+-->
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript  :"D
 
 
