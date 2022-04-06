@@ -2,12 +2,10 @@
 
 <br/>
 
-## 🚀 About Me
+### 🚀 About Me
 I'm Amr Elsayed from Egypt. I'm a Front-End Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. 
 
 ---
-
-<br/>
 
 ### Languages and Tools 🛠 : 
 
@@ -18,17 +16,14 @@ I'm Amr Elsayed from Egypt. I'm a Front-End Developer.I really enjoy learning Pr
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-<br/>
-<br/>
----
+
 
 - ### I’m currently learning 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
----
 
-<br/>
+---
 
 ### 🔗 Links
 [![CodePen.io](https://img.shields.io/badge/CodePen.io-000?style=for-the-badge&logo=CodePen&logoColor=white&target=_blank)](https://codepen.io/amrsayed74)
@@ -39,8 +34,6 @@ I'm Amr Elsayed from Egypt. I'm a Front-End Developer.I really enjoy learning Pr
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01005074554)
 
 ---
-
-<br/>
 
 <!-- ### Stats
 
