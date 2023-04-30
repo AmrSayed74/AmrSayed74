@@ -26,13 +26,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![notion](https://img.shields.io/badge/-notion-black?style=flat-square&logo=notion)
-![tailwind](https://img.shields.io/badge/-tailwind-black?style=flat-square&logo=tailwind)
+![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
+![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 
 - ### I’m currently learning 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-redux-%23282C34?style=flat-square&logo=redux)
-![typescript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
+![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
+![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
